@@ -6,6 +6,6 @@ void sum(int one, int two){
 }
 
 void main(){
-  print("Expense tracking app");
-  
+  print("Sum Function Example");
+
 }
